@@ -1,0 +1,7 @@
+{
+  "name": "lern",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
